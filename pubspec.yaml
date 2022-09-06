@@ -30,7 +30,6 @@ dependencies:
   flutter:
     sdk: flutter
 
-
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
@@ -38,6 +37,13 @@ dependencies:
   fluttertoast: ^8.0.9
   shared_preferences: ^2.0.15
   provider: ^6.0.3
+  cached_network_image: ^3.2.1
+  path_provider: ^2.0.11
+  carousel_slider: ^4.1.1
+  http: ^0.13.5
+  form_builder_image_picker: ^2.0.0
+  flutter_form_builder: ^7.6.0
+  http: ^0.13.5
 
 dev_dependencies:
   flutter_test:
@@ -64,6 +70,8 @@ flutter:
   # To add assets to your application, add an assets section, like this:
   assets:
     - assets/
+    - assets/BottomNavBarIcons/
+    - assets/categories/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
@@ -77,14 +85,43 @@ flutter:
   # list giving the asset and other descriptors for the font. For
   # example:
   fonts:
-     - family: Rubik
+     - family: Raleway
        fonts:
-         - asset: Fonts/Rubik-Regular.ttf
+         - asset: Fonts/Raleway-Thin.ttf
            style: normal
-           weight: 400
-         - asset: fonts/Rubik-Medium.ttf
+           weight: 100
+
+         - asset: Fonts/Raleway-ExtraLight.ttf
+           style: normal
+           weight: 200
+
+         - asset: Fonts/Raleway-Light.ttf
+           style: normal
+           weight: 300
+
+         - asset: Fonts/Raleway-Regular.ttf
+           style: normal
+           weight: 400 
+
+         - asset: Fonts/Raleway-Medium.ttf
            style: normal
            weight: 500
+
+         - asset: Fonts/Raleway-SemiBold.ttf
+           style: normal
+           weight: 600
+
+         - asset: Fonts/Raleway-Bold.ttf
+           style: normal
+           weight: 700
+
+         - asset: Fonts/Raleway-ExtraBold.ttf
+           style: normal
+           weight: 800
+
+         - asset: fonts/Raleway-Black.ttf
+           style: normal
+           weight: 900
   #   - family: Trajan Pro
   #     fonts:
   #       - asset: fonts/TrajanPro.ttf

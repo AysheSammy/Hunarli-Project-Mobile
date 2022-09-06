@@ -1,0 +1,102 @@
+[
+    {
+        "id": 0,
+        "productName": "Product Name Goes Here Like Somsa" ,
+        "sellerUsername": "Ayshe",
+        "cost": 20.20,
+        "isNew": true,
+        "isDiscout": false,
+        "isLiked": false,
+        "likes": 0
+    },
+    {
+        "id": 1,
+        "productName": "Product Name Goes Here Like Somsa" ,
+        "sellerUsername": "Ayshe",
+        "cost": 20.20,
+        "isNew": true,
+        "isDiscout": false,
+        "isLiked": false,
+        "likes": 0
+    },
+    {
+        "id": 2,
+        "productName": "Product Name Goes Here Like Somsa" ,
+        "sellerUsername": "Ayshe",
+        "cost": 20.20,
+        "isNew": true,
+        "isDiscout": false,
+        "isLiked": false,
+        "likes": 0
+    },
+    {
+        "id": 3,
+        "productName": "Product Name Goes Here Like Somsa" ,
+        "sellerUsername": "Ayshe",
+        "cost": 20.20,
+        "isNew": true,
+        "isDiscout": false,
+        "isLiked": false,
+        "likes": 0
+    },
+    {
+        "id": 4,
+        "productName": "Product Name Goes Here Like Somsa" ,
+        "sellerUsername": "Ayshe",
+        "cost": 20.20,
+        "isNew": true,
+        "isDiscout": false,
+        "isLiked": false,
+        "likes": 0
+    },
+    {
+        "id": 5,
+        "productName": "Product Name Goes Here Like Somsa" ,
+        "sellerUsername": "Ayshe",
+        "cost": 20.20,
+        "isNew": true,
+        "isDiscout": false,
+        "isLiked": false,
+        "likes": 0
+    },
+    {
+        "id": 6,
+        "productName": "Product Name Goes Here Like Somsa" ,
+        "sellerUsername": "Ayshe",
+        "cost": 20.20,
+        "isNew": true,
+        "isDiscout": false,
+        "isLiked": false,
+        "likes": 0
+    },
+    {
+        "id": 7,
+        "productName": "Product Name Goes Here Like Somsa" ,
+        "sellerUsername": "Ayshe",
+        "cost": 20.20,
+        "isNew": true,
+        "isDiscout": false,
+        "isLiked": false,
+        "likes": 0
+    },
+    {
+        "id": 8,
+        "productName": "Product Name Goes Here Like Somsa" ,
+        "sellerUsername": "Ayshe",
+        "cost": 20.20,
+        "isNew": true,
+        "isDiscout": false,
+        "isLiked": false,
+        "likes": 0
+    },
+    {
+        "id": 9,
+        "productName": "Product Name Goes Here Like Somsa" ,
+        "sellerUsername": "Ayshe",
+        "cost": 20.20,
+        "isNew": true,
+        "isDiscout": false,
+        "isLiked": false,
+        "likes": 0
+    }
+]
